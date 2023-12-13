@@ -1,0 +1,19 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+li{
+    background-color: gray;
+}
+.sec1{
+    background-color:yellow;
+}
+.sec2{
+    background-color: #ADC4CE;
+}
+img{
+    border-radius: 10px;
+}
+input{
+    background-color: orange;
+    color: white;               
+}
